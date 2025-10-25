@@ -5,7 +5,7 @@
 📍 Based in Syria | 🌍 Learning online through Coursera, edX, and DataCamp  
 
 ## 📊 Projects
-- [Netflix Movies Data Analysis](https://github.com/ghaidaq/netflix-data-analysis-datacamp)
+- [Netflix Movies Data Analysis](https://github.com/ghaidaq/Investigating-Netflix-Movies)
 - More coming soon...
 
 ## 🧠 Currently Learning
